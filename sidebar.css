@@ -20,3 +20,6 @@ body{
     text-decoration: none;
     color: black;
 }
+.menu-items:hover{
+    background-color: rgb(183, 220, 252);
+}

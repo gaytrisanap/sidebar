@@ -23,3 +23,6 @@ body{
 .menu-items:hover{
     background-color: rgb(183, 220, 252);
 }
+.menu-img{
+    width: 30px;
+}

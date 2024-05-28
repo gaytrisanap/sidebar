@@ -26,3 +26,7 @@ body{
 .menu-img{
     width: 30px;
 }
+.menu-text{
+    margin-left: 10px;
+    font-size: 25px;
+}
